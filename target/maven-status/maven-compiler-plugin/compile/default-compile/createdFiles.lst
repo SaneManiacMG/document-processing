@@ -1,0 +1,5 @@
+com\reverside\workflow\models\ResponseStatus.class
+com\reverside\workflow\models\Statuses.class
+com\reverside\workflow\controllers\ApplicationController.class
+com\reverside\workflow\models\Submission.class
+com\reverside\workflow\Application.class
